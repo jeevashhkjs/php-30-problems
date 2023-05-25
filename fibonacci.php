@@ -15,7 +15,7 @@ function fibonacciSeries($limit)
         $fibonacciNumTwo = $n3;  
         $countAdd = $countAdd + 1;  
     }
-    echo "\n";
+    echo  "\n";
 
 }
 
